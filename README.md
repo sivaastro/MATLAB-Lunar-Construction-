@@ -68,5 +68,11 @@ https://github.com/user-attachments/assets/98887b95-d611-40e8-80d6-08e85ae23c73
 
 <img width="869" height="738" alt="Result_Construction" src="https://github.com/user-attachments/assets/8abcb377-cb52-41dd-a8ce-c7a4ae31f51f" />
 
+## Publication
+
+> **Smart Sandbags as a Sensor Network for Autonomous Lunar Construction**
+> *Authors: Siva Muniyasamy, Jekan Thanga*
+> *Journal/Conference: AAS GNC, 2024*
+
 
 
