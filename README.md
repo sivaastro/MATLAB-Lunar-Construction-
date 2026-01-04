@@ -48,10 +48,25 @@
     ```
 3.  **Visualization**:
     * **Main Screen**: Shows the map, robot positions, and fire locations.
-    * **Graph Windows**: Separate figures will open showing real-time plots for Heat Release Rate and Material Mass.
+    * **Graph Windows**: Separate figures will open showing real-time plots for multi-robot construction assembly tasks.
+
 
 ## 📊 Simulation Logic
 
 * **Fire Scenario**: The `SimulationHandler` creates a fire event. Robots detect the temperature rise via the `Location.Temp` data and are dispatched by the logic in `ExternalRobot.m`.
 * **Pathfinding**: Robots calculate a linear path to their assigned target. If their battery drops below 25%, they automatically reroute to a charging station (`LowPower` state).
 * **Asset Management**: In non-emergency states, robots identify `Sandbag` locations and move them to designated target areas.
+
+## Results:
+
+https://github.com/user-attachments/assets/42445cd6-873b-47b9-a718-0817e2fd7b44
+
+
+
+https://github.com/user-attachments/assets/98887b95-d611-40e8-80d6-08e85ae23c73
+
+
+<img width="869" height="738" alt="Result_Construction" src="https://github.com/user-attachments/assets/8abcb377-cb52-41dd-a8ce-c7a4ae31f51f" />
+
+
+
